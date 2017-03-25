@@ -1,0 +1,52 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "ebbe0cc0600cb69375abc20af545967f",
+      "css": "facebook-rect",
+      "code": 62209,
+      "src": "websymbols"
+    },
+    {
+      "uid": "0e5740f288f6f5cb04eef63f7f0a1506",
+      "css": "googleplus-rect",
+      "code": 62217,
+      "src": "websymbols"
+    },
+    {
+      "uid": "2d3ce9463ed5525c6faa01f84c957843",
+      "css": "youtube",
+      "code": 62227,
+      "src": "websymbols"
+    },
+    {
+      "uid": "26969cfbd811730075e4c657cc9fda2a",
+      "css": "twitter",
+      "code": 59392,
+      "src": "elusive"
+    },
+    {
+      "uid": "fbc62ccfe2241037d5b9abf65204aef8",
+      "css": "basket-circled",
+      "code": 59393,
+      "src": "elusive"
+    },
+    {
+      "uid": "f5686c8ccdc0213b081ef95678160b6d",
+      "css": "basket",
+      "code": 59394,
+      "src": "elusive"
+    },
+    {
+      "uid": "90e0aff5c929e444038355746a952aaf",
+      "css": "shopping-basket",
+      "code": 62097,
+      "src": "fontawesome"
+    }
+  ]
+}
